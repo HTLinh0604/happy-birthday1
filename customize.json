@@ -5,7 +5,7 @@
   "wishText": "Chúc mọi thứ tốt đẹp sẽ đến với cậu! ;)",
   "imagePath": "meienn/4.jpg",
   "text1": "Hôm nay là sinh nhật của cậu!!! :D",
-  "textInChatBox": "Nay bé meien sang 20 ròi!, Chúc mừng sinh nhật cậu nhá...",
+  "textInChatBox": "Nay bé meien sang 20 ròi!, tuổi mới càng ngày càng xinh nha...",
   "sendButtonLabel": "Send",
   "text2": "That's what I was going to do.",
   "text3": "But then I stopped.",
@@ -16,11 +16,12 @@
   "smiley": ":)",
   "bigTextPart1": "M",
   "bigTextPart2": "E",
-  "bigTextPart2": "I",
-  "bigTextPart2": "E",
-  "bigTextPart2": "N",
+  "bigTextPart3": "I",
+  "bigTextPart4": "E",
+  "bigTextPart5": "N",
   "wishHeading": "Happy Birthday!",
   "outroText": "Đến đây là hết ròi, nếu cậu muốn lặp lại thì f5 nha .",
-  "replayText": "Mong rằng hôm nay cậu thật hạnh phúc nha ! ",
-  "outroSmiley": "Gửi bé Meien :)"
+  "replayText": "Mong rằng hôm nay cậu có một ngày thật hạnh phúc nha ! ",
+  "replayText": "Gửi bé Meien ",
+  "outroSmiley": ":)"
 }
