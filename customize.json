@@ -3,7 +3,7 @@
   "name": "Mai An",
   "greetingText": "Tớ muốn gửi vài lời nhắn đến cậu!",
   "wishText": "Chúc mọi thứ tốt đẹp sẽ đến với cậu! ;)",
-  "imagePath": "meienn/1.jpg",
+  "imagePath": "meienn/4.jpg",
   "text1": "Hôm nay là sinh nhật của cậu!!! :D",
   "textInChatBox": "Nay bé meien sang 20 ròi!, tuổi mới càng ngày càng xinh nha...",
   "sendButtonLabel": "Send",
@@ -20,8 +20,7 @@
   "bigTextPart4": "E",
   "bigTextPart5": "N",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Đến đây là hết ròi, nếu cậu muốn lặp lại thì f5 nha .",
-  "replayText1": "Mong rằng hôm nay cậu có một ngày thật hạnh phúc nha ! ",
-  "replayText2": "Gửi bé Meien ",
-  "outroSmiley": ":) "
+  "outroText": "Mong rằng hôm nay cậu có một ngày thật hạnh phúc nha !",
+  "replayText": "Gửi bé Meien ",
+  "outroSmiley": ":)"
 }
